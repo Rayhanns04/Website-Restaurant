@@ -1,0 +1,37 @@
+[{
+        "gambar": "/img/Double Cheese Burger.png",
+        "nama": "Double Cheese Burger",
+        "desc": "Perpaduan roti burger dengan 2 Lapisan daging gurih dan 2 lapisan keju disajikan dengan saus tomat, acar, potongan bawang dan mustard.",
+        "harga": 32500
+    },
+    {
+        "gambar": "/img/Tripple Burger With Cheese.png",
+        "nama": "Triple Burger with Cheese",
+        "desc": "Perpaduan roti burger dengan 3 Lapisan daging gurih dan 2 lapisan keju, saus tomat, acar, potongan bawang dan mustard.",
+        "harga": 55500
+    },
+    {
+        "gambar": "/img/Iced-Toffee-Coffee.png",
+        "nama": "Iced Toffee Coffee",
+        "desc": "Es kopi dari 100% kopi Arabika dengan perpaduan karamel vanilla yang creamy",
+        "harga": 18000
+    },
+    {
+        "gambar": "/img/Sakura-Fizzz.png",
+        "nama": "Sakura Fizz",
+        "desc": "Minuman bersoda dengan rasa manis menyegarkan dari buah berry yang berwarna merah",
+        "harga": 56000
+    },
+    {
+        "gambar": "/img/Fanta.png",
+        "nama": "Fanta",
+        "desc": "Minuman berkarbonasi dengan rasa strawberry",
+        "harga": 8000
+    },
+    {
+        "gambar": "/img/McFreeze Coca-Cola.png",
+        "nama": "McFreeze Coca-Cola",
+        "desc": "Minuman berkarbonasi berupa bulir es yang sangat halus dengan rasa Coca-Cola",
+        "harga": 56000
+    }
+]

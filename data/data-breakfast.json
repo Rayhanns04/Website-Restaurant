@@ -1,0 +1,73 @@
+[{
+        "gambar": "/img/Big Mac.png",
+        "nama": "Big Mac",
+        "desc": "Burger Ikonik McDonald's. Dua lapis daging sapi gurih disajikan dengan saus spesial, selada segar, keju, acar timun,   bawang, diapit roti bertabur wijen",
+        "harga": 26000
+    },
+    {
+        "gambar": "/img/Double Cheese Burger.png",
+        "nama": "Double Cheese Burger",
+        "desc": "Perpaduan roti burger dengan 2 Lapisan daging gurih dan 2 lapisan keju disajikan dengan saus tomat, acar, potongan bawang dan mustard.",
+        "harga": 32500
+    },
+    {
+        "gambar": "/img/Tripple Burger With Cheese.png",
+        "nama": "Triple Burger with Cheese",
+        "desc": "Perpaduan roti burger dengan 3 Lapisan daging gurih dan 2 lapisan keju, saus tomat, acar, potongan bawang dan mustard.",
+        "harga": 55500
+    },
+    {
+        "gambar": "/img/Beef Burger Duluxe.png",
+        "nama": "Beef Burger Deluxe",
+        "desc": "Burger dengan 100% daging sapi Australia dengan selada segar, tomat, acar timun, potongan bawang bombai dan mustard.",
+        "harga": 150000
+    },
+    {
+        "gambar": "/img/Big-Breakfast.png",
+        "nama": "Big Breakfast",
+        "desc": "Perpaduan English Muffin panggang yang disajikan dengan sosis ayam gurih, renyahnya Hashbrown serta lembutnya scrambled egg.",
+        "harga": 18000
+    },
+    {
+        "gambar": "/img/Egg-and-Cheese-Muffin.png",
+        "nama": "Egg and Cheese Muffin",
+        "desc": "Perpaduan scrambled egg dan keju gurih dalam setangkup English Muffin hangat.",
+        "harga": 56000
+    },
+    {
+        "gambar": "/img/Chicken-Muffin.png",
+        "nama": "Chicken Muffin",
+        "desc": "Setangkup English muffin hangat dilapis saus mayonais dengan daging ayam olahan yang digoreng dengan sempurna.",
+        "harga": 8000
+    },
+    {
+        "gambar": "/img/Sausage-McMuffin-with-Egg.png",
+        "nama": "Sausage McMuffin with Egg",
+        "desc": "Perpaduan klasik english muffin, sosis ayam khas McDonald's, telur, dan selembar keju bernutrisi.",
+        "harga": 26000
+    },
+    {
+        "gambar": "/img/Sausage-Wrap.png",
+        "nama": "Sausage Wrap",
+        "desc": "Perpaduan sosis ayam, scrambled egg, dan keju gurih dalam balutan tortilla yang lembut. Tersedia dari jam 5-11 pagi.",
+        "harga": 20500
+    },
+    {
+        "gambar": "/img/Hotcakes-3-pcs.png",
+        "nama": "Hotcakes 3 pcs",
+        "desc": "3 Panekuk lembut dan hangat berlumur sirup maple dan mentega gurih",
+        "harga": 35800
+    },
+    {
+        "gambar": "/img/Hashbrown.png",
+        "nama": "Hashbrown",
+        "desc": "Potongan kentang gurih yang digoreng keemasan.",
+        "harga": 39999
+    },
+    {
+        "gambar": "/img/Nasi-Uduk-McD-Ayam-Suwir.png",
+        "nama": "Nasi Uduk McD Ayam Suwir",
+        "desc": "Nasi uduk gurih dengan topping sambal terasi, scrambled egg, bawang goreng, kini makin lengkap dengan suwiran ayam goreng.",
+        "harga": 25000
+    }
+]

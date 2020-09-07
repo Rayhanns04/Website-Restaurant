@@ -1,0 +1,349 @@
+/* Media Queries Desktop*/
+@media (max-width: 1366px) and (max-height: 768px) {
+  /* Search Page */
+  .search-input input[type="text"] {
+    margin-top: 27px;
+    margin-left: 320px;
+  }
+
+  /* Navbar */
+  #card {
+    margin-left: 100px;
+  }
+
+  /* card promo */
+  .card-promo-container {
+    margin: 50px auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .card-promo {
+    margin: 20px 30px;
+  }
+
+  /* Menu Favorite */
+
+  .menu-favorite-home {
+    width: 100%;
+    padding: 5px;
+    margin: 90px auto;
+  }
+
+  /* galery */
+  .home-galery {
+    margin: 150px 0;
+    padding-top: 100px;
+    width: 100%;
+    height: 607px;
+    background-color: #ffc700;
+  }
+
+  .galery-img {
+    width: 574px;
+    height: 421px;
+    transition: all 1s ease-in-out;
+  }
+
+  .galery-img:hover {
+    transform: scale(1.2);
+  }
+
+  .liquid {
+    margin-left: 800px;
+  }
+
+  .galery-img-container {
+    left: -50px;
+  }
+
+  .title-galery {
+    left: 50px;
+  }
+
+  .button-galery {
+    margin-left: 290px;
+  }
+
+  /* Download Apps */
+  .title-downloadApps {
+    margin-top: 50px;
+    margin-left: 120px;
+  }
+
+  .img-phone {
+    left: 20px;
+    width: 539.04px;
+    height: 553.48px;
+  }
+
+  .img-phone:hover {
+    transform: scale(1.05);
+  }
+
+  /* Job Vancy */
+  .job-img {
+    margin-top: -30px;
+    margin-left: 10px;
+    width: 668.18px;
+    height: 542px;
+  }
+
+  .tittle-jobVancy {
+    right: 40px;
+  }
+
+  .tittle-jobVancy button {
+    margin-left: 405px;
+  }
+
+  /* Sarapan Pagi Page */
+  .breakfast-menu {
+    width: 100%;
+    padding: 5px;
+    margin: 90px auto;
+  }
+
+  .slider-search {
+    width: 195px;
+    height: 52px;
+    /* margin-top: 10%;
+        margin-left: 85.55%; */
+  }
+}
+
+/* Media Queries Mobile*/
+@media screen and (max-width: 414px) {
+  /* Search Page */
+  .search-container h1 {
+    font-size: 24px;
+  }
+
+  .search-input input[type="text"] {
+    width: 320px;
+    height: 42px;
+    margin-top: 27px;
+    margin-left: 50px;
+  }
+
+  /* Menu Banner */
+  .menu-banner {
+    width: 100%;
+    height: 300px;
+  }
+
+  .text-banner h1 {
+    margin-top: 15%;
+    margin-left: 2%;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+  }
+
+  .img-banner img {
+    margin-left: 15%;
+    width: 257px;
+    height: 160px;
+  }
+
+  .menu-title {
+    font-weight: 600;
+    margin-left: 200px;
+  }
+
+  /* Navbar */
+  .mega-menu {
+    width: 100%;
+    height: 580px;
+  }
+
+  #card {
+    display: none;
+  }
+
+  /* Carousel */
+  .carousel-indicators li {
+    display: none;
+  }
+
+  /* card promo */
+  .card-promo-container {
+    margin: 50px auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .card-promo {
+    margin: 20px 30px;
+  }
+
+  .promo h1 {
+    font-size: 36px;
+  }
+
+  /* Menu Favorite */
+
+  .menu-favorite-home {
+    width: 100%;
+    padding: 5px;
+    margin: 90px auto;
+  }
+
+  .menu-favorite-home h1 {
+    font-size: 36px;
+  }
+
+  /* galery */
+  .home-galery {
+    margin: 150px 0;
+    padding-top: 80px;
+    width: 100%;
+    height: 607px;
+    background-color: #ffc700;
+  }
+
+  .galery-img {
+    position: relative;
+    width: 282.07px;
+    height: 207.35px;
+    left: 80px;
+  }
+
+  .galery-img:hover {
+    transform: scale(1.2);
+  }
+
+  .liquid {
+    display: none;
+  }
+
+  .galery-img-container {
+    left: -50px;
+  }
+
+  .title-galery {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: -50px;
+    text-align: center;
+    left: -8px;
+  }
+
+  .title-galery h2 {
+    font-size: 24px;
+  }
+
+  .title-galery p {
+    margin-left: -10px;
+    font-size: 18px;
+  }
+
+  .title-galery button {
+    position: relative;
+    width: 217px;
+    margin-left: 80px;
+    height: 42px;
+    font-size: 12px;
+  }
+
+  /* Download Apps */
+  .downloadApps {
+    display: none;
+  }
+
+  /* Job Vancy */
+  .job-img {
+    display: none;
+  }
+
+  .tittle-jobVancy {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    left: -5px;
+  }
+
+  .tittle-jobVancy h2 {
+    text-align: center;
+    font-size: 24px;
+  }
+
+  .tittle-jobVancy p {
+    text-align: center;
+    font-size: 18px;
+  }
+
+  .tittle-jobVancy button {
+    width: 217px;
+    margin-left: 80px;
+    height: 42px;
+    font-size: 12px;
+    margin-left: 90px;
+  }
+
+  /* Sarapan Pagi Page */
+  .breakfast-menu {
+    width: 100%;
+    padding: 5px;
+    margin: 90px auto;
+  }
+
+  .breakfast-menu h1 {
+    font-size: 36px;
+  }
+
+  .slider-search {
+    width: 90px;
+    margin-left: 78%;
+  }
+
+  /* Footer */
+  .footer-top {
+    padding: 30px;
+  }
+
+  .footer-links a {
+    text-decoration: none;
+  }
+
+  .footer-social li a {
+    margin-right: 10px;
+  }
+
+  .btn-group-download img {
+    margin-top: 10px;
+    margin-right: 10px;
+    width: 116px;
+    height: 37px;
+  }
+
+  .playstore {
+    margin-top: 50px;
+    margin-left: -125px;
+  }
+
+  /* Card Breakfast */
+
+  .card-searchMenu-item {
+    margin: 20px 0;
+    padding: 10px;
+  }
+
+  /* Footer */
+
+  .footer-bottom h6 {
+    padding-top: 25px;
+    font-size: 12px;
+  }
+
+  .ul li a {
+    margin-left: -15px;
+    text-decoration: none;
+    color: #696969;
+    font-size: 12px;
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "gambar": "/img/Big-Breakfast.png",
+    "nama": "Big Breakfast",
+    "desc": "Perpaduan English Muffin panggang yang disajikan dengan sosis ayam gurih, renyahnya Hashbrown serta lembutnya scrambled egg.",
+    "harga": 18000
+  },
+  {
+    "gambar": "/img/Egg-and-Cheese-Muffin.png",
+    "nama": "Egg and Cheese",
+    "desc": "Perpaduan scrambled egg dan keju gurih dalam setangkup English Muffin hangat.",
+    "harga": 56000
+  },
+  {
+    "gambar": "/img/Chicken-Muffin.png",
+    "nama": "Chicken Muffin",
+    "desc": "Setangkup English muffin hangat dilapis saus mayonais dengan daging ayam olahan yang digoreng dengan sempurna.",
+    "harga": 8000
+  }
+]

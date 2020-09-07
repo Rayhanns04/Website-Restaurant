@@ -1,0 +1,52 @@
+[
+    {
+        "gambar": "/img/Ayam-Krispy-McDonald's.png",
+        "nama": "Ayam Krispy McDonald's",
+        "desc": "Ayam goreng khas McDonald's , dengan kulit yang renyah dan daging ayam yang lembut dan gurih. Tersedia dalam pilihan A la Carte, PaNas 1, PaNas 2, Panas 2 with Fries, PaMer 5, PaMer 7."
+    },
+    {
+        "gambar": "/img/Ayam-Spicy-McDonald's.png",
+        "nama": "Ayam Spicy McDonald's",
+        "desc": "Ayam goreng khas McDonald's dengan bumbu pedas, rasakan sensasi pedas pada kulit yang renyah hingga daging ayam yang lembut dan gurih. Tersedia dalam pilihan A la Carte, PaNas 1, PaNas 2, Panas 2 with Fries, PaMer 5, PaMer 7."
+    },
+    {
+        "gambar": "/img/PaNas-1.png",
+        "nama": "PaNas 1",
+        "desc": "Ayam Goreng khas McDonald's dengan nasi hangat dan minuman FruitTea lemon yang menyegarkan. Tersedia dalam pilihan Ayam Krispy atau Spicy."
+    },
+    {
+        "gambar": "/img/PaNas-2-with-Fries.png",
+        "nama": "PaNas 2 with Fries",
+        "desc": "2 pcs Ayam Goreng khas McDonald's dengan kentang goreng dan minuman FruitTea lemon yang menyegarkan. Tersedia dalam pilihan Ayam Krispy atau Spicy."
+    },
+    {
+        "gambar": "/img/PaNas-2-with-Rice.png",
+        "nama": "PaNas 2 with Rice",
+        "desc": "2 pcs Ayam Goreng khas McDonald's dengan nasi hangat dan minuman FruitTea lemon yang menyegarkan. Tersedia dalam pilihan Ayam Krispy atau Spicy."
+    },
+    {
+        "gambar": "/img/PaNas-Spesial.png",
+        "nama": "PaNas Spesial",
+        "desc": "Ayam Goreng khas McDonald's dengan nasi hangat dan tambahan scrambled egg serta minuman FruitTea lemon yang menyegarkan. Tersedia dalam pilihan Ayam Krispy atau Spicy."
+    },
+    {
+        "gambar": "/img/Chicken-Muffin.png",
+        "nama": "Chicken Muffin",
+        "desc": "Setangkup English muffin hangat dilapis saus mayonais dengan daging ayam olahan yang digoreng dengan sempurna."
+    },
+    {
+        "gambar": "/img/PaMer-5.png",
+        "nama": "PaMer 5",
+        "desc": "5 pcs ayam goreng McDonald's, 3 nasi dan 3 minuman Fruit Tea Lemon. Tersedia dalam pilihan Ayam Krispy, Spicy atau spesial (campuran krispy & spicy)."
+    },
+    {
+        "gambar": "/img/PaMer-7.png",
+        "nama": "PaMer 7",
+        "desc": "7 pcs ayam goreng McDonald's, 5 nasi dan 5 minuman Fruit Tea Lemon. Tersedia dalam pilihan Ayam Krispy, Spicy atau spesial (campuran krispy & spicy)."
+    },
+    {
+        "gambar": "/img/Nasi-Uduk-Komplit-McD.png",
+        "nama": "Nasi Uduk Komplit McD",
+        "desc": "Cita rasa lokal ala McDonald's dengan nasi berbumbu, ayam goreng Mcdonald's, telur dan sambal terasi."
+    }
+]
